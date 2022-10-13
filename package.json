@@ -2,9 +2,11 @@
   "name": "alkemy-backend-node-challenge",
   "version": "1.0.0",
   "description": "Challenge de alkemy para backend con Node.js",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "express": "^4.18.2",
+    "nodemon": "^2.0.20",
     "sequelize": "^6.25.0"
   },
   "devDependencies": {},
